@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.16" apprev="18125" start="node4">
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="177.519" tilt="12.2911" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="18/03/2024 08:19" altitude="81.63" customnodeid="" author="" longitude="-1.475069" source="" comment="" heading="0" title="" tags="Maison Moulis" info="" latitude="43.489664" nodeid="node4" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-119.76" tilt="-3.11" distance="15.6625" skinid="ht_node" target="6.8/25.0/70.0" title="" url="{node5}" id="Point02" description=""/>
+      <hotspot pan="-184.66" tilt="18.68" distance="4.69763" skinid="ht_node" target="87.3/-3.6/70.0" title="" url="{node6}" id="Point01" description=""/>
+      <hotspot pan="-156.4" tilt="-8.21" distance="15.685" skinid="ht_node" target="112.9/0.0/70.0" title="" url="{node8}" id="Point03" description=""/>
+      <hotspot pan="-180.18" tilt="-9.6" skinid="ht_node" target="72.6/-3.5/70.0" title="" url="{node3}" id="Point04" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="18/03/2024 08:20" altitude="66.50" customnodeid="" author="" longitude="-1.474894" source="" comment="" heading="0" title="" tags="Maison Moulis" info="" latitude="43.489603" nodeid="node5" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-23.52" tilt="0.17" distance="15.6625" skinid="ht_node" target="176.7/13.0/70.0" title="" url="{node4}" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="18/03/2024 08:57" altitude="69.27" customnodeid="" author="" longitude="-1.475231" source="" comment="" heading="0" title="" tags="Maison Moulis" info="" latitude="43.489742" nodeid="node8" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-255.68" tilt="15.91" skinid="ht_node" target="-113.0/-11.1/90.9" title="" url="{node7}" id="Point01" description=""/>
+      <hotspot pan="-69.21" tilt="-2.27" distance="15.685" skinid="ht_node" target="177.0/13.2/70.0" title="" url="{node4}" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="18/03/2024 08:56" altitude="69.27" customnodeid="" author="" longitude="-1.475231" source="" comment="" heading="0" title="" tags="Maison Moulis" info="" latitude="43.489742" nodeid="node7" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-271.41" tilt="-28.99" skinid="ht_node" target="-72.0/0.5/70.0" title="" url="{node8}" id="Point01" description=""/>
+      <hotspot pan="-65.65" tilt="-11.36" distance="17.2242" skinid="ht_node" target="87.2/-3.9/70.0" title="" url="{node6}" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="18/03/2024 08:53" altitude="71.07" customnodeid="" author="" longitude="-1.475028" source="" comment="" heading="0" title="" tags="Maison Moulis" info="" latitude="43.489694" nodeid="node6" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-270.48" tilt="-9.18" distance="17.2242" skinid="ht_node" target="92.7/-38.7/70.0" title="" url="{node7}" id="Point01" description=""/>
+      <hotspot pan="-89.65" tilt="-33.08" distance="4.69763" skinid="ht_node" target="177.8/12.9/70.0" title="" url="{node4}" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="234.8">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="07/02/2024 18:38" customnodeid="" author="" longitude="" source="" comment="" heading="234.8" title="" tags="Maison Moulis" info="" latitude="" nodeid="node3" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-318.45" tilt="-5.31" skinid="ht_node" target="0.0/0.0/70.0" title="" url="{node2}" id="Point01" description=""/>
+      <hotspot pan="-133.26" tilt="-8.84" skinid="ht_node" target="179.4/12.1/70.0" title="" url="{node4}" id="Point02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" levelingpitch="0" width="1344" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1344">
+      <level preload="0" predecode="0" width="1344" height="1344"/>
+      <level preload="0" predecode="0" width="672" height="672"/>
+      <level preload="1" predecode="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="297.8">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata datetime="07/02/2024 18:36" customnodeid="" author="" longitude="" source="" comment="" heading="297.8" title="" tags="Maison Moulis" info="" latitude="" nodeid="node2" description="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" border="1" background="1" width="180" backgroundalpha="1" height="20" enabled="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot pan="-65.32" tilt="-1.66" skinid="ht_node" target="" title="" url="{node3}" id="Point01" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" blendcolor="0x000000" zoomafterinfov="90" softedge="0" type="crossdissolve" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomout="0" zoomafteroutfov="20" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" contextvr="1" speedwheel="1" contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" contextprojections="0" lockedwheel="0" hideabout="0" simulatemass="1" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" customnodeid="" author="" longitude="" source="" comment="" heading="0" title="" tags="" info="" latitude="" nodeid="master" description="" copyright=""/>
+  </masternode>
+</tour>
